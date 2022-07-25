@@ -18,10 +18,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![](/Screenshot1.png?raw=true)
-![](/Screenshot2.png?raw=true)
-![](/Screenshot3.png?raw=true)
 
+
+![](./Screenshot1.jpg)
+![](./Screenshot2.jpg)
 
 
 ### Links
@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-
+- 
 ### What I learned
 
 I found out that using "Grid" is a nice solution for alignment
