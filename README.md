@@ -35,11 +35,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Grid
+- CSS Flex
 - 
 ### What I learned
 
-I found out that using "Grid" is a nice solution for alignment
+I found out that using "Flex" is a nice solution for alignment
 
 ## Author
 
