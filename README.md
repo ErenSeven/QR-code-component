@@ -20,9 +20,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 
-!QR-code-component/Screenshot1.png
-![](.ErenSeven/QR-code-component/Screenshot2.jpg)
-![](./Screenshot3.jpg)
 
 
 ### Links
